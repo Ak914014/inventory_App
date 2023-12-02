@@ -1,10 +1,6 @@
 # inventory_App
 # Follow the steup to start the project
-# 1. npm i express
-# 2. npm init 
-and after the package installation go to that package.json file and add one more obejct 
-# type:"module",
-# npm i layouts 
+# npm i express 
 # npm i ejs 
 # npm i express-ejs-layouts
 # at the end use node index.js and open in browser http://localhost:3200/
