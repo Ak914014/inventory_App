@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "express-ejs-layouts": "^2.5.1"
+  },
+  "name": "inventory_app",
+  "version": "1.0.0",
+  "description": "This is projcet where user can add new products and delete that products ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ajay Kumar",
+  "license": "ISC",
+  "type": "module"
+}
