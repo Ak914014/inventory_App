@@ -3,7 +3,7 @@
 # npm i express 
 # npm i ejs 
 # npm i express-ejs-layouts
-# at the end use node index.js and open in browser http://localhost:3200/
+# in vs code terminal use "node index.js" and run in browser "http://localhost:3200/"
 
 
 ![image](https://github.com/Ak914014/inventory_App/assets/90746723/348d4c60-19b2-491a-a298-7adbc7a29f33)
